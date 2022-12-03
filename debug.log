@@ -1,0 +1,6 @@
+[1203/151155.291:ERROR:SubProcessApp.h(42)] SubProcessApp::OnRegisterCustomSchemes failed for schemeName:file
+[1203/151156.678:ERROR:SubProcessApp.h(42)] SubProcessApp::OnRegisterCustomSchemes failed for schemeName:file
+[1203/151156.993:ERROR:SubProcessApp.h(42)] SubProcessApp::OnRegisterCustomSchemes failed for schemeName:file
+[1203/151157.086:ERROR:SubProcessApp.h(42)] SubProcessApp::OnRegisterCustomSchemes failed for schemeName:file
+[1203/151355.276:ERROR:SubProcessApp.h(42)] SubProcessApp::OnRegisterCustomSchemes failed for schemeName:file
+[1203/151355.488:ERROR:gpu_init.cc(454)] Passthrough is not supported, GL is disabled, ANGLE is 
