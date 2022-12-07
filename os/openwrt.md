@@ -1,3 +1,3 @@
-# 软件
+# OpenWrt
 
 > An awesome project.
